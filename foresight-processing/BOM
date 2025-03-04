@@ -1,0 +1,11 @@
+Reference	Value	Datasheet
+C3	"1F,5.5V"	~
+C4	1uF	~
+C5	0.01uF	~
+C6	10uF	~
+J1	U_FL-R-SMT_10_	https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf
+"Q1,Q2"	BSS138	https://www.onsemi.com/pub/Collateral/BSS138-D.PDF
+U1	ATMEGA328PB-AU	http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589666
+U2	RFM95W-915S2	https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf
+U3	ADXL362BCCZ-RL7	https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf
+U4	LT1763CS8-5-TRPBF	LT1763CS8-5-TRPBF
